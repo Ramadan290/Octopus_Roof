@@ -1151,7 +1151,7 @@ int main(int argc, char *argv[])
     glutInitWindowSize(1200,800);
     glutInitWindowPosition(200,0);
     glutInitDisplayMode(GLUT_RGB | GLUT_DOUBLE);
-    glutCreateWindow("211003517 && 211002284 && 212001212");
+    glutCreateWindow("Octopus Roof");
     init2D(0.196078, 0.6, 0.8);
 
 
